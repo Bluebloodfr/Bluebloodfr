@@ -9,7 +9,8 @@
 | How | What |
 | --- | --- |
 | Linkedin | [Louis-Melchior Giraud ](https://www.linkedin.com/in/louis-melchior-giraud/) |
-| Mail | louismelchiorgiraud@gmail.com |
+| Mails | louismelchiorgiraud@gmail.com |
+|       | louis-melchior.giraud@edu.devinci.fr |
 
 <h2> 💻 Skills :</h2>
 
