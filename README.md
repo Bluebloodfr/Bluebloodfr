@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Louis-Melchior !
 <h2>💫 About Me:</h2>
-<br>👨‍🎓Student in Data engineering & IA at ESILV.</br>
+<br>👨‍🎓Student in Data engineering & Artificial Intelligence at ESILV.</br>
 
 ![](https://komarev.com/ghpvc/?username=Bluebloodfr&label=VISITORS)
 
@@ -9,8 +9,8 @@
 | How | What |
 | --- | --- |
 | Linkedin | [Louis-Melchior Giraud ](https://www.linkedin.com/in/louis-melchior-giraud/) |
-| Mails | louismelchiorgiraud@gmail.com |
-|       | louis-melchior.giraud@edu.devinci.fr |
+| Personnal mail | louismelchiorgiraud@gmail.com |
+| Professionnal mail | louis-melchior.giraud@edu.devinci.fr |
 
 <h2> 💻 Skills :</h2>
 
