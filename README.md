@@ -24,11 +24,13 @@
 
 - <b>Algorithm & Optimization</b>
 
+
 - <b>Machine Learning</b>
-
+  - [Deep Learning Model and Knowledge Graph for Re-Identification of Graphic Assets in Videos](https://github.com/Bluebloodfr/Python_for_DA)
+  
 - <b>Computer Vision</b>
-
-
+  - [Drug Consumption Prediction Using Machine Learning](https://github.com/Bluebloodfr/Deep_Learning_4_ReId/tree/main)
+    
 - <b>Web App with frontend & backend</b>
   - [Anki copy for Language Learning](https://github.com/Bluebloodfr/Node_Project)
   - [Clothes renting app](https://github.com/Bluebloodfr/Clothes_Renting)
