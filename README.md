@@ -55,42 +55,52 @@
 
 <h2>🚀 Latest Experience & Internships:</h2>
 
-- <b>2025 (5 months)</b> — <b>Software Solutions Technician</b> at Thales Alenia Space, Luxembourg
-  - Developed high-res land-cover segmentation (U-Net + EfficientNet-B4, OpenEarthMap/xBD)
-  - Benchmarked cloud segmentation (OmniCloudMask, Dynamic World U-Net) on Sentinel-2/Landsat data
-  - Adapted and trained the TerraMind foundation model for multi-modal Earth Observation (Sentinel-2, YAML pipeline)
-  - Built confidence-aware visualization tools for model outputs
-  - Collaborated with GeoPulse data scientists and product owners
+- <b>2025 (5 months)</b> — <b>Software Solutions Technician</b> at Thales Alenia Space, Luxembourg  
+  Developed high-res land-cover segmentation (U-Net + EfficientNet-B4, OpenEarthMap/xBD), benchmarked cloud segmentation (OmniCloudMask, Dynamic World U-Net), adapted and trained the TerraMind foundation model for multi-modal Earth Observation, and built explainable/confidence-aware visualization tools.  
+  Collaborated with the GeoPulse data team and contributed to rapid prototyping, reproducibility, and operational deployment.
 
-- <b>2024 (4 months)</b> — <b>Data Scientist & ML Engineer Intern</b> at Ministère des Armées (Marine Nationale), Paris
-  - Machine learning model training, NLP research, deep learning, and Agile methods for operational projects
+- <b>2024 (4 months)</b> — <b>Data Scientist & ML Engineer Intern</b> at Ministère des Armées (Marine Nationale), Paris  
+  **Main projects:**  
+  - **Qlik dashboard for tracking school flows:**  
+    Led end-to-end development of a dashboard with Qlik, connecting to Excel data on SharePoint via API, transforming and visualizing flows for the formation office. Worked closely with end-users for iterative improvements and requirements.  
+  - **Machine Learning prediction of early resignations:**  
+    Built and evaluated models (SVM, CatBoost, PyTorch neural nets) to predict risk of early departure among new recruits, using enriched datasets and SHAP for interpretability. Delivered actionable insights and visualizations for decision-makers.
 
 ---
 
 <h2>🛰️ Recent Highlights:</h2>
 
-- Led high-resolution land-cover and cloud segmentation projects for Earth Observation with Thales Alenia Space, deploying U-Net and foundation models (TerraMind) on large-scale satellite imagery.
-- Developed custom data pipelines, evaluation and visualization tools for explainable AI—delivering results used by both data scientists and non-expert stakeholders.
-- Advocated for reproducibility and rapid prototyping (PyTorch Lightning, Label Studio, Docker), balancing model complexity with operational constraints.
-- Explored multi-modal learning, confidence calibration, and robust benchmarking in real-world remote sensing contexts.
+- Led land-cover & cloud segmentation projects for Earth Observation at Thales Alenia Space with deep learning and foundation models (TerraMind).
+- Developed custom data pipelines and interactive tools for explainable AI—enabling both technical and non-technical users to interpret results.
+- Built a production-grade dashboard in Qlik for operational monitoring (Marine Nationale), integrating SharePoint APIs and iterative user feedback.
+- Designed ML workflows for real-world attrition prediction, focusing on interpretability and stakeholder communication.
 
 ---
 
 <details>
-  <summary><b>Read more: Internship details & technical summary</b></summary>
+  <summary><b>Read more: Project details & technical summary</b></summary>
 
-#### Thales Alenia Space Luxembourg, 2025 — Internship Objectives
+#### Thales Alenia Space Luxembourg, 2025
 
 - Developed a high-res land-cover segmentation prototype (U-Net + EfficientNet-B4, OpenEarthMap/xBD datasets), focusing on reproducibility and explainability.
-- Compared state-of-the-art cloud segmentation (OmniCloudMask, Dynamic World U-Net) on Sentinel-2/Landsat.
+- Benchmarked state-of-the-art cloud segmentation (OmniCloudMask, Dynamic World U-Net) on Sentinel-2/Landsat.
 - Adapted and trained the TerraMind foundation model on 12-band Sentinel-2 imagery for LULC segmentation; set up YAML-based config and custom preprocessing.
 - Created confidence/uncertainty visualizations for decision support.
-- Collaborated closely with the GeoPulse team (data scientists & product owner), emphasizing iterability, interpretability, and rapid prototyping.
-- Addressed operational needs: high-res mapping, reliable cloud-masking, foundation models for generalization, and explainability for end-users.
+- Collaborated with GeoPulse team, emphasizing iterability, interpretability, and rapid prototyping.
+- Operational needs addressed: high-res mapping, reliable cloud-masking, foundation models for generalization, and explainability for end-users.
 - Used: PyTorch Lightning, GDAL, rasterio, Label Studio, matplotlib, ipywidgets, Docker, poetry.lock.
 
-#### Notes
-- Explored limitations of operational deployment (e.g., GPU constraints, annotation inconsistencies, model flexibility).
-- Delivered annotated reports, dashboards, and suggestions for further model improvement and real-world adoption.
+#### Ministère des Armées (Marine Nationale), Paris, 2024
+
+- **Qlik Dashboard Project:**  
+  - Connected and transformed Excel data from SharePoint with Qlik’s SharePoint API connector.
+  - Designed and iteratively improved visualizations for school flow tracking, in weekly collaboration with end users.
+  - Managed project autonomy, user interactions, and requirements adaptation.
+
+- **Machine Learning for Attrition Prediction:**  
+  - Enriched datasets with spatial and demographic features.
+  - Trained and compared SVM, CatBoost, and PyTorch neural networks for early resignation prediction.
+  - Used SHAP values for model interpretability, and presented clear actionable visualizations to business leads.
+  - Project validated and continued post-internship for operational impact.
 
 </details>
