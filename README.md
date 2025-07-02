@@ -4,7 +4,7 @@
 
 👨‍🎓 Student in Data Engineering & Artificial Intelligence at ESILV.
 
-![VISITORS](https://komarev.com/ghpvc/?username=Bluebloodfr&label=VISITORS)
+![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=Bluebloodfr.global)
 
 <h3>🔗 Contact me:</h3>
 
