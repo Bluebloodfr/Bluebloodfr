@@ -2,7 +2,8 @@
 
 <h2>💫 About Me:</h2>
 
-👨‍🎓 Student in Data Engineering & Artificial Intelligence at ESILV.
+Data Scientist @ Thales Alenia Space Luxembourg
+👨‍🎓 Former student in Data Engineering & Artificial Intelligence @ ESILV
 
 ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=Bluebloodfr.global)
 
